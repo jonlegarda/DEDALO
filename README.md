@@ -16,7 +16,7 @@ python main.py
 To set your own API KEYS, please edit config/config.cfg and replace "ENTER_YOUR_SHODAN_API_KEY" and "ENTER_YOUR_ZOOMEYE_API_KEY" by the keys provided by Shodan and Zoomeye
 
 [SHODAN]
-API_SHODAN = ENTER_YOUR_SHODAN_API_KEY
+API_SHODAN = # ENTER_YOUR_SHODAN_API_KEY
 
 
 [ZOOMEYE]
