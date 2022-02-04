@@ -9,14 +9,14 @@ DEDALO is a python application that uses Shodan's and ZoomEye's APIs in order to
 
 Cloning the repo.
 ```
-git clone https://github.com/jonlegarda/TFM_Gonzalo_Jon
-cd test_main
+git clone https://github.com/jonlegarda/DEDALO
+cd dedalo
 python main.py
 ```
 
 ## Dependencies
 
-Besides the Shodan and Zoomeye module Shogun makes use of other libraries that need to be installed in order DEDALO to work. Please use `pip` or use the `requirements.txt` to install the dependencies.
+Besides the Shodan and Zoomeye module DEDALO makes use of other libraries that need to be installed in order to work. Please use `pip` or use the `requirements.txt` to install the dependencies.
 
 ```
 pip install shodan
