@@ -1,12 +1,5 @@
-click==8.0.3
-colorama==0.4.4
-Flask==2.0.2
-itsdangerous==2.0.1
-Jinja2==3.0.2
-MarkupSafe==2.0.1
-Werkzeug==2.0.2
-
-future~=0.18.2
-shodan~=1.25.0
-requests~=2.26.0
-zoomeye~=2.0.4.6.13
+shodan
+zoomeye-SDK
+python-nmap
+configparser
+IPy
