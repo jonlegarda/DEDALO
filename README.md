@@ -1,5 +1,5 @@
 # MASTER'S DEGREE THESIS BY JON LEGARDA & GONZALO OCHOA DE EGUILEOR
-Sofware project for the Thesis of the Master's Degree in Cybersecurity at UNIR (Universidad Internacional de La Rioja) by Jon Legarda and Gonzalo Ochoa de Eguileor.
+DEDALO is a sofware project for the Thesis of the Master's Degree in Cybersecurity at UNIR (Universidad Internacional de La Rioja) by Jon Legarda and Gonzalo Ochoa de Eguileor.
 
 # DEDALO
 
